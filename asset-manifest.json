@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.a5d70cc0.css",
+    "main.js": "/portfolio-website/static/js/main.fac24e5f.js",
+    "static/js/787.2e8bdfaf.chunk.js": "/portfolio-website/static/js/787.2e8bdfaf.chunk.js",
+    "static/media/remmie.png": "/portfolio-website/static/media/remmie.c331110e1ebfdd079b88.png",
+    "static/media/soccer-ball-goal.webp": "/portfolio-website/static/media/soccer-ball-goal.c9f9c7182e5a75a39261.webp",
+    "static/media/distr_sys.jpg": "/portfolio-website/static/media/distr_sys.c0c2854e1717daa5d18d.jpg",
+    "static/media/echobelt.jpg": "/portfolio-website/static/media/echobelt.6ad9693cd62c6a036ba2.jpg",
+    "static/media/chess.jpg": "/portfolio-website/static/media/chess.7e11e8daca07dfac9d76.jpg",
+    "static/media/Air-pollution-city.webp": "/portfolio-website/static/media/Air-pollution-city.0ed2a52fd0c04f819649.webp",
+    "static/media/rps.jpg": "/portfolio-website/static/media/rps.acf8adc21b78fc07a371.jpg",
+    "index.html": "/portfolio-website/index.html",
+    "main.a5d70cc0.css.map": "/portfolio-website/static/css/main.a5d70cc0.css.map",
+    "main.fac24e5f.js.map": "/portfolio-website/static/js/main.fac24e5f.js.map",
+    "787.2e8bdfaf.chunk.js.map": "/portfolio-website/static/js/787.2e8bdfaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5d70cc0.css",
+    "static/js/main.fac24e5f.js"
+  ]
+}
