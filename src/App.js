@@ -4,6 +4,8 @@ import Home from "./pages/Home";
 import Projects from "./pages/Projects";
 import ProjectDisplay from "./pages/ProjectDisplay";
 import Experience from "./pages/Experience";
+import Awards from "./pages/Awards";
+import Media from "./pages/Media";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
@@ -17,6 +19,8 @@ function App() {
           <Route path="/projects" element={<Projects />} />
           <Route path="/project/:id" element={<ProjectDisplay />} />
           <Route path="/experience" element={<Experience />} />
+          <Route path="/awards" element={<Awards />} />
+          <Route path="/media" element={<Media />} />
         </Routes>
         <Footer />
       </Router>

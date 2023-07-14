@@ -1,0 +1,15 @@
+img {
+  width: 100%;
+  display: block;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.verticalImg {
+  max-width: 300px;
+}
+
+.horizontalImg {
+  max-width: 400px;
+}

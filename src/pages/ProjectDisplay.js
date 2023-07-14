@@ -13,9 +13,12 @@ function ProjectDisplay() {
       <h1>{project.name}</h1>
       <img src={project.image} />
       <p>
-        <b>Skills:</b> {project.skills}
+        <b>Description:</b> {project.description}
       </p>
-      {project.link != "" && (
+      <p className="skills">
+        <b>Skills</b> {project.skills}
+      </p>
+      {project.link !== "" && (
         <a href={project.link}>
           <GithubIcon />
         </a>

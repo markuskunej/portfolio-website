@@ -2,17 +2,19 @@ import React from "react";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import GithubIcon from "@material-ui/icons/GitHub";
 import EmailIcon from "@material-ui/icons/Email";
+import Markus from "../assets/markus.png";
 import "../styles/Home.css";
 
 function Home() {
   return (
     <div className="home">
       <div className="about">
+        <img src={Markus} alt="Markus" />
         <h2> Welcome!</h2>
         <div className="prompt">
           <p>
-            I'm a software engineer with a passion for solving difficult
-            problems using A.I. and machine learning.
+            My name's Markus and I'm a software engineer with a passion for
+            solving difficult problems using A.I. and machine learning.
           </p>
           <a href="https://github.com/markuskunej">
             <GithubIcon />
