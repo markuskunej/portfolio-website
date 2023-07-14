@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.36a4c0d0.css",
-    "main.js": "/portfolio-website/static/js/main.86dd70f9.js",
+    "main.css": "/portfolio-website/static/css/main.dee621bf.css",
+    "main.js": "/portfolio-website/static/js/main.6cd8367e.js",
     "static/js/787.2e8bdfaf.chunk.js": "/portfolio-website/static/js/787.2e8bdfaf.chunk.js",
+    "static/media/markus.png": "/portfolio-website/static/media/markus.d330f67cb11bde83697c.png",
     "static/media/remmie.png": "/portfolio-website/static/media/remmie.c331110e1ebfdd079b88.png",
     "static/media/soccer-ball-goal.webp": "/portfolio-website/static/media/soccer-ball-goal.c9f9c7182e5a75a39261.webp",
     "static/media/distr_sys.jpg": "/portfolio-website/static/media/distr_sys.c0c2854e1717daa5d18d.jpg",
     "static/media/echobelt.jpg": "/portfolio-website/static/media/echobelt.6ad9693cd62c6a036ba2.jpg",
+    "static/media/markusCWSF_large.jpg": "/portfolio-website/static/media/markusCWSF_large.69cdf186112f3fdcd1af.jpg",
     "static/media/chess.jpg": "/portfolio-website/static/media/chess.7e11e8daca07dfac9d76.jpg",
+    "static/media/hillier.jpg": "/portfolio-website/static/media/hillier.e5307ca7c21f5cc09a4b.jpg",
     "static/media/Air-pollution-city.webp": "/portfolio-website/static/media/Air-pollution-city.0ed2a52fd0c04f819649.webp",
     "static/media/rps.jpg": "/portfolio-website/static/media/rps.acf8adc21b78fc07a371.jpg",
     "index.html": "/portfolio-website/index.html",
-    "main.36a4c0d0.css.map": "/portfolio-website/static/css/main.36a4c0d0.css.map",
-    "main.86dd70f9.js.map": "/portfolio-website/static/js/main.86dd70f9.js.map",
+    "main.dee621bf.css.map": "/portfolio-website/static/css/main.dee621bf.css.map",
+    "main.6cd8367e.js.map": "/portfolio-website/static/js/main.6cd8367e.js.map",
     "787.2e8bdfaf.chunk.js.map": "/portfolio-website/static/js/787.2e8bdfaf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.36a4c0d0.css",
-    "static/js/main.86dd70f9.js"
+    "static/css/main.dee621bf.css",
+    "static/js/main.6cd8367e.js"
   ]
 }
