@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.dee621bf.css",
-    "main.js": "/portfolio-website/static/js/main.6cd8367e.js",
+    "main.css": "/portfolio-website/static/css/main.d72d38ec.css",
+    "main.js": "/portfolio-website/static/js/main.39e38e92.js",
     "static/js/787.2e8bdfaf.chunk.js": "/portfolio-website/static/js/787.2e8bdfaf.chunk.js",
     "static/media/markus.png": "/portfolio-website/static/media/markus.d330f67cb11bde83697c.png",
     "static/media/remmie.png": "/portfolio-website/static/media/remmie.c331110e1ebfdd079b88.png",
@@ -14,12 +14,12 @@
     "static/media/Air-pollution-city.webp": "/portfolio-website/static/media/Air-pollution-city.0ed2a52fd0c04f819649.webp",
     "static/media/rps.jpg": "/portfolio-website/static/media/rps.acf8adc21b78fc07a371.jpg",
     "index.html": "/portfolio-website/index.html",
-    "main.dee621bf.css.map": "/portfolio-website/static/css/main.dee621bf.css.map",
-    "main.6cd8367e.js.map": "/portfolio-website/static/js/main.6cd8367e.js.map",
+    "main.d72d38ec.css.map": "/portfolio-website/static/css/main.d72d38ec.css.map",
+    "main.39e38e92.js.map": "/portfolio-website/static/js/main.39e38e92.js.map",
     "787.2e8bdfaf.chunk.js.map": "/portfolio-website/static/js/787.2e8bdfaf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dee621bf.css",
-    "static/js/main.6cd8367e.js"
+    "static/css/main.d72d38ec.css",
+    "static/js/main.39e38e92.js"
   ]
 }
