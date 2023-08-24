@@ -32,11 +32,20 @@ function Home() {
         <ol className="list">
           <li className="item">
             <h2>Languages</h2>
-            <span>Python, C, C++, Java, SQL</span>
+            <span>Python, C, C++, Java, SQL, JavaScript, Swift</span>
           </li>
           <li className="item">
-            <h2>ML Frameworks</h2>
-            <span>Pytorch, TensorFlow, Mindspore</span>
+            <h2>Tools / Frameworks</h2>
+            <span>
+              Pytorch, TensorFlow, Mindspore, React, Github, Jupyter Notebooks
+            </span>
+          </li>
+          <li className="item">
+            <h2>Hobbies & Interests</h2>
+            <span>
+              Soccer, Strategy Games (Catan, Diplomacy), Bikepacking (biking +
+              camping), Triathlon, Rocket League
+            </span>
           </li>
         </ol>
       </div>

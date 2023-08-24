@@ -22,7 +22,7 @@ export const ProjectList = [
     description:
       "4th Year Capstone Project with Remmie Health. The goal was to improve their consumer otoscope (camera for ears) by utilizing machine learning to help identify cases of ear infection (Otitis Media) without the need for a doctor. The goal evolved into improving the quality of photos that users would take through the use of a object detection network, by locating various landmarks of the ear canal.",
     skills: "Python, Machine Learning, Pytorch, Object Detection, AWS S3",
-    link: "",
+    link: "https://github.com/markuskunej/Capstone-Remmie",
   },
   {
     name: "Soccer Match Predictor",
@@ -39,7 +39,7 @@ export const ProjectList = [
       "Distributed and Replicated storage service with message encryption created for ECE419: Distributed Systems",
     skills:
       "Java, Scalable Storage, Key-Value Storage, External Configuration Service, Server Failure Detection & Reconciliation, Consistent Hashing, Data Replication, Message Encryption",
-    link: "https://github.com/ds-uot/ms3-gr45",
+    link: "https://github.com/markuskunej/Distributed-Storage-Service",
   },
   {
     name: "Modified Rock Paper Scissors Agent",
