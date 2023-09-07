@@ -8,6 +8,8 @@ import Awards from "./pages/Awards";
 import Media from "./pages/Media";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import Papers from "./pages/Papers";
+import PaperDisplay from "./pages/PaperDisplay";
 
 function App() {
   return (
@@ -18,6 +20,8 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/project/:id" element={<ProjectDisplay />} />
+          <Route path="/papers" element={<Papers />} />
+          <Route path="/paper/:id" element={<PaperDisplay />} />
           <Route path="/experience" element={<Experience />} />
           <Route path="/awards" element={<Awards />} />
           <Route path="/media" element={<Media />} />
