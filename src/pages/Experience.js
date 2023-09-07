@@ -45,17 +45,19 @@ function Experience() {
             <ol style={{ listStyleType: "disc" }}>
               <li>
                 Developed a new feature to offload dataset operations from the
-                CPU to GPU or Huawei’s Ascend accelerator (C++, Python). This
-                improved training speeds on networks like ResNet and AlexNet.
+                CPU to either a GPU or AI accelerator device, reducing training
+                times by 20% on networks such as ResNet and AlexNet. (C++,
+                Python)
               </li>
               <li>
-                Wrote CPU, GPU, and/or Huawei Ascend kernels (C++, CUDA) for
-                Mindspore operations. Created unit tests for them (bash,
-                python).
+                Wrote CPU, GPU, and AI accelerator kernels for MindSpore
+                operations, allowing for additional AI networks to be supported
+                by their AI framework. (C++, CUDA)
               </li>
               <li>
-                Ran performance tests of AI networks (ResNet, MobileNet, etc.).
-                Analyzed loss, accuracy and memory data to find bottlenecks.
+                Created and ran performance tests on AI networks, analyzing
+                loss, accuracy and memory data to locate bottlenecks in the
+                system. (Bash, Python)
               </li>
             </ol>
           </p>
@@ -71,20 +73,24 @@ function Experience() {
           </h3>
           <h4 className="vertical-timeline-element-subtitle">Toronto, ON</h4>
           <p>
-            Assisted with the launch of their first AI chip, the speedAI240,
+            Assisted with the launch of their first AI chip, the runAI200®,
             through the following tasks:
           </p>
           <p>
             <ol style={{ listStyleType: "disc" }}>
               <li>
-                Wrote python scripts to test the boundary scan architecture
-                (JTAG) of the chip
+                Designed Python scripts to test the boundary scan architecture
+                (JTAG) of their first-generation AI chip, the runAI200®. Ran
+                these scripts on a FPGA device in the lab. (Python, Bash)
               </li>
               <li>
-                Developed firmware to control their board's GPIO pins and
-                voltages
+                Wrote firmware used to control the General Purpose Input/Output
+                pins and voltages on the tsunAImi® accelerator card. (C)
               </li>
-              <li>Created RTL tests using cocotb and Synopses VCS</li>
+              <li>
+                Created register-transfer level (RTL) tests using the cocotb
+                verification framework and Synopsys VCS verification. (Python)
+              </li>
             </ol>
           </p>
         </VerticalTimelineElement>

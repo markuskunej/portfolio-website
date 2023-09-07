@@ -3,7 +3,9 @@ import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import GithubIcon from "@material-ui/icons/GitHub";
 import EmailIcon from "@material-ui/icons/Email";
 import Markus from "../assets/markus.png";
+import Resume from "../assets/Markus_Kunej_Resume.pdf";
 import "../styles/Home.css";
+import Button from "@material-ui/core/Button";
 
 function Home() {
   return (
@@ -15,6 +17,16 @@ function Home() {
           <p>
             My name's Markus and I'm a software engineer with a passion for
             solving difficult problems using A.I. and machine learning.
+          </p>
+          <p>
+            <a
+              href={Resume}
+              download="Markus-Kunej-Resume"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <Button variant="contained">Download Resume</Button>
+            </a>
           </p>
           <a href="https://github.com/markuskunej">
             <GithubIcon />
