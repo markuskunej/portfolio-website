@@ -1,11 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.78ab7bb9.css",
-    "main.js": "/portfolio-website/static/js/main.27b045ef.js",
+    "main.css": "/portfolio-website/static/css/main.9baac0ed.css",
+    "main.js": "/portfolio-website/static/js/main.5a53fa01.js",
     "static/js/787.2e8bdfaf.chunk.js": "/portfolio-website/static/js/787.2e8bdfaf.chunk.js",
+    "static/media/Capstone_Paper_Remmie.pdf": "/portfolio-website/static/media/Capstone_Paper_Remmie.835eb9dbf430671ef494.pdf",
+    "static/media/Thesis_Markus.pdf": "/portfolio-website/static/media/Thesis_Markus.d6814966c8abacc8cad2.pdf",
+    "static/media/MatchPredictor_Report.pdf": "/portfolio-website/static/media/MatchPredictor_Report.ada4a881ef6a9d9c33ec.pdf",
+    "static/media/openai-jukebox.png.webp": "/portfolio-website/static/media/openai-jukebox.png.512f0ccccff2c335f1cf.webp",
     "static/media/markus.png": "/portfolio-website/static/media/markus.d330f67cb11bde83697c.png",
     "static/media/Markus_Kunej_Resume.pdf": "/portfolio-website/static/media/Markus_Kunej_Resume.40a0b22005af5fc4d089.pdf",
     "static/media/remmie.png": "/portfolio-website/static/media/remmie.c331110e1ebfdd079b88.png",
+    "static/media/AI_Music_Ethics.pdf": "/portfolio-website/static/media/AI_Music_Ethics.f857a232f7a334320499.pdf",
     "static/media/soccer-ball-goal.webp": "/portfolio-website/static/media/soccer-ball-goal.c9f9c7182e5a75a39261.webp",
     "static/media/distr_sys.jpg": "/portfolio-website/static/media/distr_sys.c0c2854e1717daa5d18d.jpg",
     "static/media/echobelt.jpg": "/portfolio-website/static/media/echobelt.6ad9693cd62c6a036ba2.jpg",
@@ -15,12 +20,12 @@
     "static/media/Air-pollution-city.webp": "/portfolio-website/static/media/Air-pollution-city.0ed2a52fd0c04f819649.webp",
     "static/media/rps.jpg": "/portfolio-website/static/media/rps.acf8adc21b78fc07a371.jpg",
     "index.html": "/portfolio-website/index.html",
-    "main.78ab7bb9.css.map": "/portfolio-website/static/css/main.78ab7bb9.css.map",
-    "main.27b045ef.js.map": "/portfolio-website/static/js/main.27b045ef.js.map",
+    "main.9baac0ed.css.map": "/portfolio-website/static/css/main.9baac0ed.css.map",
+    "main.5a53fa01.js.map": "/portfolio-website/static/js/main.5a53fa01.js.map",
     "787.2e8bdfaf.chunk.js.map": "/portfolio-website/static/js/787.2e8bdfaf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78ab7bb9.css",
-    "static/js/main.27b045ef.js"
+    "static/css/main.9baac0ed.css",
+    "static/js/main.5a53fa01.js"
   ]
 }
