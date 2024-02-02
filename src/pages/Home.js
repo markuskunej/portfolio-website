@@ -3,7 +3,7 @@ import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import GithubIcon from "@material-ui/icons/GitHub";
 import EmailIcon from "@material-ui/icons/Email";
 import Markus from "../assets/markus.png";
-import Resume from "../assets/Markus_K_Resume.pdf";
+import Resume from "../assets/Markus_Kunej_Resume.pdf";
 import "../styles/Home.css";
 import Button from "@material-ui/core/Button";
 
@@ -44,7 +44,7 @@ function Home() {
         <ol className="list">
           <li className="item">
             <h2>Languages</h2>
-            <span>Python, C, C++, Java, SQL, JavaScript, Swift</span>
+            <span>Python, C++, JavaScript, C, Java, SQL</span>
           </li>
           <li className="item">
             <h2>Tools / Frameworks</h2>
